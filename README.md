@@ -1,4 +1,4 @@
-# AR Mobility Assistant for Safe Driving System (ARMASDS) - Game Prototype
+# AR Mobility Assistant for Safe Driving System (ARMASDS) - Prototype
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ This Unity-based game prototype simulates a driving environment that includes na
 
 ## How to Play
 
-1. Download the **ARMASDS.exe** file from this repository.
+1. Download the **ARMASDS** file from this repository.
 2. Open the **.exe** file to run the game.
 3. Use the arrow keys (or WASD) to control the vehicle and navigate the environment.
 4. The game will provide AR-based alerts for hazards like speed signs, potholes, and weather-related obstacles.
@@ -39,7 +39,7 @@ This Unity-based game prototype simulates a driving environment that includes na
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The conceptual idea of ARMASDS (AR Mobility Assistant for Safe Driving System) may be used for inspiration and further development; however, all content, including specific implementations, code, designs, and descriptions, is strictly protected and not allowed for copying as it is being used for i.Mobilothon 4.0. Any reproduction or replication of this content without explicit permission is prohibited. Please refer to the LICENSE file for additional details.
 
 ## Acknowledgements
 
