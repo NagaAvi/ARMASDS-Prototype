@@ -13,6 +13,23 @@ This Unity-based game prototype simulates a driving environment that includes na
 - **Dynamic Route Adjustments**: Provides alternate, safer routes based on real-time hazard detection.
 - **Real-Time AR Hazard Detection**: Detects potholes, debris, and weather impacts using LiDAR, sensors, and cameras.
 
+## How to run the Prototype
+
+1. Download the **ARMASDS-Prototype** file from this repository.
+
+![image](https://github.com/user-attachments/assets/74b0dadb-2541-453e-8118-3e731c9f6164)
+
+2. Open the **ARMASDS** file to open the prototype.
+
+![image](https://github.com/user-attachments/assets/c524bd6d-2749-4f85-991d-9155a68cee61)
+
+3. Click on the **Car Project** to run the prototype.
+
+![image](https://github.com/user-attachments/assets/bbdcd48d-eff0-48d6-8d85-f3216a89a8e8)
+
+4. Use the arrow keys (or WASD) to control the vehicle and navigate the environment.
+5. The game will provide AR-based alerts for hazards like speed signs, potholes, and weather-related obstacles.
+
 ## Architecture:
 ![image](https://github.com/user-attachments/assets/a1f48e36-6527-4095-ab2e-11d0c4e5debc)
 
@@ -54,13 +71,6 @@ This detailed architecture provides a holistic view of how ARMASDS functions as 
 - **Unity** (for development and simulation)
 - **Windows PC** (for running the executable)
 - **AR-enabled hardware** (optional, if implementing on physical devices)
-
-## How to Play
-
-1. Download the **ARMASDS** file from this repository.
-2. Open the **.exe** file to run the game.
-3. Use the arrow keys (or WASD) to control the vehicle and navigate the environment.
-4. The game will provide AR-based alerts for hazards like speed signs, potholes, and weather-related obstacles.
 
 ## Future Work
 
