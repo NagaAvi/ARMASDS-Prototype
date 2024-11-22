@@ -95,6 +95,10 @@ This detailed architecture provides a holistic view of how ARMASDS functions as 
 1. Download the latest version of the game (ARMASDS.exe).
 2. Run the executable on a Windows machine.
 
+## Note
+
+"Assets used in the project (map, car model) were sourced from the Unity Asset Store."
+
 ## License
 
 The conceptual idea of ARMASDS (AR Mobility Assistant for Safe Driving System) may be used for inspiration and further development; however specific implementations, code, and descriptions, is strictly protected and not allowed for copying as it is being used for i.Mobilothon 4.0. Any reproduction or replication of this without explicit permission is prohibited. Please refer to the LICENSE file for additional details.
