@@ -27,8 +27,20 @@ This Unity-based game prototype simulates a driving environment that includes na
 
 ![image](https://github.com/user-attachments/assets/bbdcd48d-eff0-48d6-8d85-f3216a89a8e8)
 
-4. Use the arrow keys (or WASD) to control the vehicle and navigate the environment.
-5. The game will provide AR-based alerts for hazards like speed signs, potholes, and weather-related obstacles.
+4. Once you're in the simulator, hit the start button.
+![image](https://github.com/user-attachments/assets/f037d47f-01f1-4537-9ba1-44dff7a4d6d0)
+
+5. Follow the tutorial, to have best experience.
+![image](https://github.com/user-attachments/assets/9749a894-a6f4-4b21-be11-ef7ad67a05ea)
+
+6. After completing the tutorial click on the map and select the pre-defined destination there.
+![image](https://github.com/user-attachments/assets/cb0ac1b4-f119-4aeb-9b93-77e89d1274e6)
+
+![image](https://github.com/user-attachments/assets/b707bb6f-0976-4254-94d6-7b4ca7975669)
+
+7. Follow the navigation arrow and complete the tutorial.
+![image](https://github.com/user-attachments/assets/b078efb0-1c52-4a0a-9308-3d7fe2f0f5af)
+ 
 
 ## Architecture:
 ![image](https://github.com/user-attachments/assets/a1f48e36-6527-4095-ab2e-11d0c4e5debc)
