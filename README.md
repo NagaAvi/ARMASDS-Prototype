@@ -97,7 +97,7 @@ This detailed architecture provides a holistic view of how ARMASDS functions as 
 
 ## License
 
-The conceptual idea of ARMASDS (AR Mobility Assistant for Safe Driving System) may be used for inspiration and further development; however specific implementations, code, and descriptions, is strictly protected and not allowed for copying as it is being used for i.Mobilothon 4.0. Any reproduction or replication of this content without explicit permission is prohibited. Please refer to the LICENSE file for additional details.
+The conceptual idea of ARMASDS (AR Mobility Assistant for Safe Driving System) may be used for inspiration and further development; however specific implementations, code, and descriptions, is strictly protected and not allowed for copying as it is being used for i.Mobilothon 4.0. Any reproduction or replication of this without explicit permission is prohibited. Please refer to the LICENSE file for additional details.
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. For more details, see the [LICENSE](./LICENSE) file or visit the [Creative Commons website](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
